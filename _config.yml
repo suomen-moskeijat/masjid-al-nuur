@@ -1,0 +1,10 @@
+# Masjid Al-Nuur – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Masjid Al-Nuur"
+description: "Masjid Al-Nuur, Kirstinharju 1-3, 02760 Espoo. Rukousajat, tapahtumat ja toiminta."
+moskeija: masjid-al-nuur     # tiedosto _moskeijat/masjid-al-nuur.md
+
+# Osoite: https://suomen-moskeijat.github.io/masjid-al-nuur/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/masjid-al-nuur"
